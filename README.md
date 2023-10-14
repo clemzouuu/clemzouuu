@@ -1,7 +1,7 @@
 <h1 align="center">Hello world 🌍 </h1>
 <h3 align="center">A Full Stack Developer from Paris 🇫🇷</h3>
 <br>
-I’m currently learning **Laravel and Spring Boot**
+I’m currently learning <h3>Laravel</h3> and <h3>Spring Boot</h3>
 
 
 
