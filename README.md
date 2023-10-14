@@ -1,11 +1,13 @@
-<h1 align="center">Hello world 🌍 </h1>
-<h3 align="center">A Full Stack Developer from Paris 🇫🇷</h3>
-<br>
+Hello world 🌍
+
+
+A Full Stack Developer from Paris 🇫🇷
+
+ 
 I’m currently learning Laravel and Spring Boot
 
 
-
-<h3 align="left">Languages and Tools:</h3>
+Languages and Tools:
 <p align="left"> 
  
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -24,6 +26,7 @@ I’m currently learning Laravel and Spring Boot
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
- 
+ </p>
+ <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clemzouuu&show_icons=true&locale=en&layout=compact" alt="clemzouuu" /></p>
  
