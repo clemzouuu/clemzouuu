@@ -5,7 +5,7 @@ A Full Stack Developer from Paris 🇫🇷
 I’m currently learning Laravel and Spring Boot
 
 
-Languages and Tools:
+Languages, Frameworks and Tools:
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
  <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
