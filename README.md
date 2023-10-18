@@ -6,7 +6,7 @@ I’m currently learning Laravel and Spring Boot
 
 
 Languages, Frameworks and Tools:
-
+<p>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
@@ -23,7 +23,7 @@ Languages, Frameworks and Tools:
  <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/>
  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> 
-
+</p>
  <br>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clemzouuu&show_icons=true&locale=en&layout=compact" alt="clemzouuu" /></p>
  
